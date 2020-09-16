@@ -1,0 +1,20 @@
+## Homework Week 3
+**Three Websites I Enjoy Visiting**
+
+[Youtube](https://www.youtube.com/)
+
+[Soundcloud](https://soundcloud.com/)
+
+[Flickr](https://www.flickr.com/explore)
+
+**IP and DNS**
+
+- The relationship between IP and the DNS is like that of an address book to a person. Sometimes a person wants to go places that they haven't been before, and the DNS helps us get there by giving out the address. More technically, when one jumps onto a web browser and clicks on a website, our computer doesn't know how to get there because we dont know the IP address for the site. Its internet protocol is to ask the domain name system for the exact destination desired, while simultaneously sending its' own location as well. The DNS system has the IP address for the destination in its system and sends it back to the requestor in a translated form that helps show the user a path to get there.
+
+**The Important Parts of a URL**
+
+1. Protocol
+2. The Domain Name
+3. Path
+
+- A cookie is a piece of data that is stored on a particular person's computer that correlates directly to them and their user preferences. This data is stored on the desktop of that person and allows websites to remember information and cookies act as a sort of ID to make using that device easier for the owner.
