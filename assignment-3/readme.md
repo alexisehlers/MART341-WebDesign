@@ -1,8 +1,11 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Assignment 3
+## Alexis Ehlers
 
-hello lalalala heqnw djdoosishsn i ike kice iuf bdiaoaudnndbdgganhjdhhdbshdfbsfbhadsbfiawfhydbihewfbi hwbewihbweibfiufewbufubfeweuw bfeufbufbfiuebewiuuuuuuuu sjjanjskjabkab wadjsdjskabksjabksjdbask adkjbsdajkbdbsdksabdkjsab adksjbdsabdkjasbdkjs asdkjbakbdaksjbdkjsabsdkaj adskjbkbkjb daskbkjbjkb askdbkjb
+**Three Things I've Learned So Far**
+
+1. How to write in text editor 
+2. How the internet works
+3. What a URL stands for 
 
 [Pinterest Profile](https://www.pinterest.com/lexiehlers33/_saved/)
 
