@@ -1,2 +1,10 @@
 ## Homework Response Week 3
-For this week, the homework was fun in the way that I began to see things taking shape and making more sense. The only thing that I was slightly confused about was code highlighting. I know how to do it but still not what its used for exactly. I'm planning to do more research before continuing with it. The topics covered this week were the internet, files and directories, how information flows, working in markup, how to upload directories from your desktop to GitHub, readme.md files and text editors. What was particularly helpful and kept me engaged during the in-depth videos on the internet, web, and their components was taking very visually appealing notes. This was beneficial to both my visual and tactile learning habits. Growth mindset! Even though some concepts are hard to understand, I know I can get through them with my tried and true methods of learning, and if those don't work then I need to think outside the box. No problems really, but I did run into the inability to upload an empty file to GitHub and was able to solve that with the help of the tutorial. I feel like I'm starting to get more of a flow with everything.
+1. Provide three websites that you enjoy visiting?
+2. What is the relationship between an IP address and the DNS?
+3. What is a cookie?
+4. List the three essential parts of a URL.
+5. In your README.md, use Markdown and add the title
+"Assignment 3" with a heading 1. Underneath, add your name as
+a heading 2.
+6. Add a list of 3 things you've learned so far.
+Three Websites I enjoy
