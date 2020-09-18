@@ -1,2 +1,11 @@
-# MART341-WebDesign-AlexisEhlers
-This week's lesson was on files and directories, what exactly those are, naming files and directories, developing with GitHub, and different kinds of documentation. I thought that the homework was really straight forward and informative, I feel like I still need to review more and go over all of it though to really let it sink in. In particular, I liked the screenshots that were used to illustrate the tasks given in th homework. I appreciated that and because I am primarily a visual learner, being able to see the lessons in action definitely helped cement those concepts as we got into developing. The challenges I faced really boiled down to time management and getting what I needed to, done. My sucess is that I finally did. Yay!
+**Week 4 Response**
+
+1. How browsers function is they find, receive, and display different things that are found on the web onto your device. These things could be web pages, images, videos, and so much more. The browsers I use are Microsoft Edge and mainly Chrome.
+
+2. Markup languages process and design text in how it is displayed. These languages can format, layout, and style text for the web. HTML is one of the most popular markup languages and is used a bunch in computer development.
+
+3. [My Image](images/screenshot-firstwebsite.png)
+
+**Discussion**
+
+This week, a big focus was on HTML and developing. Other topics were browsers, pages, the DOM, and document structures. While it was extremely confusing at first, small steps were helpful in understanding the concepts and taking frequent breaks. I really liked how everything made more sense towards the end of the module, and when I displayed my first website it was a great feeling! Problems I had were recalling the HTML and Markdown concepts, so I needed to review and reference the course website a lot. I think with time that will come more easily though. 
