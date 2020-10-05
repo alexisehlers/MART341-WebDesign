@@ -1,0 +1,4 @@
+## Week 7 Response
+1. The forms I've come across on the web are dropdown forms in online college tests, text entry forms to receive different subscriptions from companies, and file upload forms for pictures and music on sites like Moodle and more.
+2. A text input could be a username input when creating a new email. Selection input forms are the kind of multiple choice options you might see when taking a personality test. And finally, an upload button would be seen when uploading a video to YouTube and clicking it so it starts.
+3. My workflow for this assignment included going through the walkthrough, then clicking through the course website modules and practice links. I then began to complete the assignment in Atom, while simultaneously referencing the homework assignment and different resources on the class website. In conclusion, I committed and pulled the files on Github Desktop.  
