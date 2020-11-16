@@ -1,0 +1,33 @@
+.main-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: darkblue;
+}
+.sub-headings {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+.secondary-container {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+.citation-box {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.bottom-page-links {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+a:visited {
+   color: lightblue;
+   text-decoration: none;
+}
+a:hover {
+   color: blue;
+   font-style: italic;
+}
+.secondary-container p:first-letter {
+   font-family: 'Playfair Display', sans-serif;
+   font-size: 1.5em;
+   font-weight: bold;
+   color: blue;
