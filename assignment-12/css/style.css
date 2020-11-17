@@ -1,0 +1,67 @@
+.main-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: darkblue;
+  font-size: xx-large;
+}
+.main-container {
+  width: 700px;
+  height: 150px;
+  background-color: lightgrey;
+  text-align: center;
+  border: 3px solid black;
+  padding: .5em;
+  margin: auto;
+}
+.child-container {
+  width: 30%;
+  height: 15%;
+  background-color: lightsteelblue;
+  margin: auto;
+  text-align: center;
+  text-shadow: 10%;
+}
+.sub-headings {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+.secondary-container {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+.citation-box {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.bottom-page-links {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
+a:visited {
+   color: lightblue;
+   text-decoration: none;
+}
+a:hover {
+   color: blue;
+   font-style: italic;
+}
+.secondary-container p:first-letter {
+   font-family: 'Playfair Display', sans-serif;
+   font-size: 1.5em;
+   font-weight: bold;
+   color: blue;
+}
+.books-display-inline-block {
+  display: inline-block;
+}
+.fixed-quote {
+  position: relative;
+  left: 100px;
+  bottom: 0px;
+}
+.grey-square-float {
+  width: 125px;
+  height: 50px;
+  margin: 0.25em;
+  background-color: lightgrey;
+  float: right;
+}
