@@ -1,0 +1,267 @@
+* {
+    box-sizing: border-box;
+}
+.sincere {
+  text-align: center;
+}
+.signature {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-style: italic;
+}
+.contact-me-header {
+  position: relative;
+  top: 25px;
+  left: 10px;
+  font-style: bold;
+  font-size: 38px;
+}
+hr {
+  border: 1px dashed black;
+  width: 400px;
+  position: relative;
+  left: 115px;
+
+}
+.profile-photo {
+  position: relative;
+  bottom: -200px;
+  left: 582px;
+}
+.table {
+  text-align: center;
+  position: relative;
+  bottom: 5px;
+  left: 360px;
+}
+.social-tag {
+  position: relative;
+  bottom: 10px;
+  left: 475px;
+}
+.short-bio {
+  padding: 2px;
+  margin: auto;
+  background: white;
+  text-align: center;
+  position: relative;
+  bottom: 125px;
+  left: 0px;
+
+}
+.main-image {
+  position: relative;
+  bottom: 60px;
+  left: 375px;
+}
+.me-para {
+  padding: 2px;
+  margin: auto;
+  background: white;
+  text-align: center;
+  position: relative;
+  top: 220px;
+  left: 10px;
+}
+.headline {
+  font-family: Roboto, sans-serif;
+  text-transform: capitalize;
+  font-size: 25px;
+  padding: 10px;
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  margin: auto;
+  background-color: lightgrey;
+  border: 2px solid white;
+}
+.about-me-title {
+  position: relative;
+  top: 180px;
+  left: 0px;
+  font-style: bold;
+  font-size: 38px;
+}
+.text-area-comments{
+    padding-bottom: 300px;
+}
+body{
+    background-color: bisque;
+}
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1, h3, h4, h5{
+    text-align: center;
+    font-family: SourceSerifPro, serif;
+
+}
+table  {
+    border: 2px dashed black;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    padding: 10px;
+}
+p  {
+    font-family:  Roboto, sans-serif;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background-color: slategrey;
+    font-family: SourceSerifPro;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+/* Set the site name style: */
+.site-name {
+  position: fixed;
+  top: 12px;
+  left: 20px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: bold;
+  margin-top: 2;
+  font-size: 22px;
+  color: white;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: powderblue;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: NavajoWhite;
+
+}
+
+.social-links a {
+  color: lightblue;
+}
+
+.social-links:hover {
+  background-color: white;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #a2a2a2;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+/* Contact Me page */
+.contact-me{
+    width:50%;
+    margin-left: 25%;
+
+}
+.other-contact-methods {
+  position: relative;
+  bottom: -100px;
+  left: 0px;
+  font-size: 150%;
+}
+.social-tag {
+  font-family: Roboto, sans-serif;
+  font-style: bold;
+  font-size: 32px;
+  left: 525px;
+  bottom: 1px;
+}
+
+/* Services Page */
+
+.services-message {
+  position: relative;
+  top: 100px;
+  left: 200px;
+  text-align: left;
+  font-size: 24px;
+  font-family: Roboto,sans-serif;
+  font-style: italic;
+}
+
+/* Products Pages */
+
+.media-title {
+  position: relative;
+  top: 25px;
+  left: 10px;
+  font-style: bold;
+  font-size: 38px;
+}
